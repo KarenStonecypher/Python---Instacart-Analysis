@@ -32,8 +32,8 @@ The project files are divided between the following folders:
 
 - Project Management: Project Brief
 - Data:
--   Original Data: The original data frames provided (listed above under the "Data" section).
--   Prepared Data. The data frames, which have been cleaned and prepared data for analysis.
+  -  Original Data: The original data frames provided (listed above under the "Data" section).
+  -  Prepared Data. The data frames, which have been cleaned and prepared data for analysis.
 - Scripts: The Jupyter notebooks containing the coding for the analysis.
 - Analysis: The visualizations used for developing and explaining insights.
 - Sent to Client: The final report presented in Excel
