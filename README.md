@@ -24,7 +24,16 @@ Instacart is a real company that has made their data available online. However, 
 - Orders
 - Orders_products_prior
 - Products
- 
+
+ ## Tools
+
+ The following Python libraries were used in this project:
+
+- Pandas: for data analization
+- Seaborn: for data visualization
+- Matplotlib: for data visualization
+- Numpy: for mathematical equations
+- SciPy: for mathematical equations
 
 ## Folders
 
