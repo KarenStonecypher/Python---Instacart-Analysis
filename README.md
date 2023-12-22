@@ -16,7 +16,7 @@ Instacart, an online grocery store that operates through an app, wants to uncove
 - What different classifications does the demographic information suggest?
 - What differences can you find in the ordering habits of different customer profiles?
   
-## Data
+## Data (Data files not uploaded to GitHub due to size.)
 
 Instacart is a real company that has made their data available online. However, the data sets provided in this project brief were fabricated for this project and provided by Career Foundry. The data provided contained these data sets:
 - Customers
