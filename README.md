@@ -41,7 +41,7 @@ Instacart is a real company that has made their data available online. However, 
 The project files are divided between the following folders:
 
 - Project Management: Project Brief
-- Data (Data files not uploaded to GitHub due to size):
+- Data (Data files not uploaded to GitHub due to size.)
 - Scripts: The Jupyter notebooks containing the coding for the analysis.
 - Analysis: The visualizations used for developing and explaining insights.
 - Sent to Client: The final report presented in Excel
