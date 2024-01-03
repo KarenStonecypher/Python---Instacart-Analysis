@@ -35,6 +35,7 @@ Instacart is a real company that has made their data available online. However, 
 - Matplotlib: for data visualization
 - Numpy: for mathematical equations
 - SciPy: for mathematical equations
+- ChatGPT: for assisting in creating code that allowed me to normalize data and format charts in the ways I wanted them to appear.
 
 ## Folders
 
