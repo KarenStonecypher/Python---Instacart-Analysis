@@ -28,8 +28,9 @@ Instacart is a real company that has made their data available online. However, 
 
  ## Tools
 
- The following Python libraries were used in this project:
+ The following Python libraries and other tools were used in this project:
 
+- Jupyter Notebook: for writing and executing Python code
 - Pandas: for data analization
 - Seaborn: for data visualization
 - Matplotlib: for data visualization
